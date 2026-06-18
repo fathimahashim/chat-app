@@ -100,7 +100,7 @@
     font-size: 14px;
 
 }
-.menu::hover .sub-menu{
+.menu:hover .sub-menu{
     display: block;
 }
 .friends.border img{

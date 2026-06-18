@@ -1,16 +1,32 @@
-# React + Vite
+# 💬 Real-Time Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack real-time chat application built with React and Firebase.
 
-Currently, two official plugins are available:
+## 🔴 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Click here to view live demo](https://chat-app-gs-de434.web.app)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- User Authentication (Login/Signup)
+- Real-time messaging
+- Image sharing
+- User search
+- Online status indicator
+- Profile customization
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React JS
+- Firebase (Firestore, Authentication)
+- Cloudinary (Image Storage)
+- CSS
+
+## 📦 Installation
+
+npm install
+npm run dev
+
+## 👩‍💻 Developer
+
+Fathima Hashim

@@ -63,7 +63,7 @@
     }
 }
 @media (max-width:900px){
-    ,chat-container{
+    .chat-container{
         display: flex;
     }
     .loading{
